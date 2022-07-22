@@ -4,8 +4,11 @@ The image dataset is consists of more than 50,000 pictures of various traffic si
 
 We need to follow the below 4 steps to build our traffic sign classification model:
 
-Dataset exploration
-CNN model building
-Model training and validation
-Model testing
+1)Dataset exploration
+
+2)CNN model building
+
+3)Model training and validation
+
+4)Model testing
 
